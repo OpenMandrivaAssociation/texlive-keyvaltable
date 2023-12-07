@@ -1,6 +1,6 @@
 Name:		texlive-keyvaltable
-Version:	54677
-Release:	2
+Version:	65416
+Release:	1
 Summary:	Re-usable table layouts separating content and presentation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/keyvaltable
