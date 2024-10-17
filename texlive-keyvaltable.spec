@@ -3,7 +3,7 @@ Version:	65416
 Release:	1
 Summary:	Re-usable table layouts separating content and presentation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/keyvaltable
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/keyvaltable
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/keyvaltable.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/keyvaltable.doc.r%{version}.tar.xz
